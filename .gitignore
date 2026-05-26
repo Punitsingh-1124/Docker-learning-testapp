@@ -1,0 +1,5 @@
+node_modules/
+.env
+secret.txt
+config/private.json
+mongodb.yaml
